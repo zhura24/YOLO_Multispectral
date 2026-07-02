@@ -1,0 +1,8 @@
+path: C:\Users\user\Downloads\Compressed\nyawit multispectral
+train: train/images
+val: valid/images
+test: test/images
+channels: 7
+nc: 1
+names:
+- sawit
